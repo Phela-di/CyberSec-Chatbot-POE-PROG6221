@@ -1,4 +1,4 @@
-#Cybersecurity Chatbot
+CyberSecurity Chatbot
 
 A simple command-line chatbot designed to provide information and answer questions related to cybersecurity.
 
