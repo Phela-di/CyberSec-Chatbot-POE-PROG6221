@@ -1,14 +1,5 @@
 CyberSecurity Chatbot
-
 A simple command-line chatbot designed to provide information and answer questions related to cybersecurity.
-
-Table of Contents
-1. #introduction
-2. #features
-3. #installation-instructions
-4. #usage
-5. #known-issues
-6. #contributing
 
 Introduction
 
